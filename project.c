@@ -17,4 +17,4 @@ int main (int argc, char **argv)
 	printf("Now enter your last name:");
 	return 0;
 ]
->>>>>>> 669aafd8c68f02e20a89a17031bf21d7ccc62fa7
+
