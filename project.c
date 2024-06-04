@@ -1,6 +1,11 @@
 #include <stdio.h>
 int main (int argc, char **argv)
 {
-	print("Hello world!\n");
-return 0;
-]
+	char first[255],last[255];
+
+	printf("Enter your name: ");
+	printf("Hello World!!")
+
+	printf("Now enter your last name:")
+	return 0;
+}
